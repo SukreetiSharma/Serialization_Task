@@ -1,3 +1,5 @@
+package XML;
+
 public class Banks {
     private int id;
     private String name;
