@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Cases" verbose="1" >
+    <listeners>
+        <listener class-name="Reports.Listener"/>
+    </listeners>
+    <test name="Extract Content From a XML Document">
+        <parameter name="testRunId" value="TC-1"/>
+        <classes>
+            <class name="XML.XmlExtractor"/>
+        </classes>
+    </test>
+    <test name="Convert XML File to String">
+        <parameter name="testRunId" value="TC-2"/>
+        <classes>
+            <class name="XML.BanksTest"/>
+        </classes>
+    </test>
+    <test name="Converting Object of Object Json File into String">
+        <parameter name="testRunId" value="TC-3"/>
+        <classes>
+            <class name="JSON.RecordTest"/>
+        </classes>
+    </test>
+</suite>

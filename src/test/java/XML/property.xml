@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+    <addresses >
+    <address>
+        <HouseOwner>Jonny Walker</HouseOwner>
+        <house>House 33</house>
+        <street>Sesame Street</street>
+        <city>Okra City</city>
+    </address>
+    <address>
+        <HouseOwner>Jack Daniels</HouseOwner>
+        <house>House 93</house>
+        <street>Some Street</street>
+        <city>The City</city>
+    </address>
+    <address>
+        <HouseOwner>Jim Beam</HouseOwner>
+        <house>Jim House</house>
+        <street>My Street</street>
+        <city>Same City</city>
+    </address>
+    <address>
+        <HouseOwner>James</HouseOwner>
+        <house>James House</house>
+        <street>Street 45</street>
+        <city>Okay City </city>
+    </address>
+    </addresses>

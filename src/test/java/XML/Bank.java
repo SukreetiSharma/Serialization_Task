@@ -1,6 +1,6 @@
 package XML;
 
-public class Banks {
+public class Bank {
     private int id;
     private String name;
     private String headquarter;
