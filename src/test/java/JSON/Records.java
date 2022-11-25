@@ -40,6 +40,4 @@ public class Records {
     public void setCategory(String category) {
         this.category = category;
     }
-
-
 }

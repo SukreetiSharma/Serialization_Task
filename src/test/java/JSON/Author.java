@@ -13,7 +13,6 @@ public class Author {
         this.authorFname = authorFname;
     }
 
-
     public String getAuthorLname() {
         return authorLname;
     }
